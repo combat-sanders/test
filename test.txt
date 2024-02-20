@@ -1,1 +1,2 @@
-hello from git
+hello this is git
+привет это гит
